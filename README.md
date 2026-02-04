@@ -48,4 +48,11 @@
   <a href="https://x.com/theuz0140" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" title="Twitter"/>
   </a>
+  <a href="https://www.instagram.com/santzs16" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" title="instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheushdsantana" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" title="Linkedin"/>
+  </a>
 </p>
+
