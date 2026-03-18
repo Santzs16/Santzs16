@@ -22,7 +22,7 @@
 ## 🛠️ Habilidades
 
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" title="C++"/></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css.svg" width="40" title="css"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" title="C#"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" title="Git"/></a>
   <a href="https://lua.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="40" title="Lua"/></a>
