@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-- 🌍 Baseado em **Jau - SP**
+- 🌍 Baseado em **Jau - São Paulo**
 - 📬 Contato: [Matheus.henri220109@gmail.com](mailto:Matheus.henri220109@gmail.com)
 - 🚀 Estudando **JavaScript**, **Python** e **Lua**
 
