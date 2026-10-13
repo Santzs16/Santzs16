@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  Tenho aprendido a programar há 3 anos. Programador apaixonado por código limpo e eficiente.<br/>
+  Programo a 3 anos. Programador apaixonado por código limpo e eficiente.<br/>
   Trabalho com <strong>C#, CSS, HTML</strong> e atualmente estudo <strong>JavaScript</strong>, <strong>Python</strong> e <strong>Lua</strong>.
 </p>
 
